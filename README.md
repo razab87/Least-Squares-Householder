@@ -1,5 +1,5 @@
 # Least-Squares-Householder
-A simple C program solving bounded linear least square problems of the form
+A C program solving bounded linear least square problems of the form
 
 |Ax-b|=min s.t. Cx=d
 
